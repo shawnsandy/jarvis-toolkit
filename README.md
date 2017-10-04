@@ -1,4 +1,4 @@
-<!-- Delete --->
+<!-- delete --->
 
 # Jarvis Toolkit
 
@@ -11,7 +11,8 @@ Jarvis Toolkit - a simple and smart way to create, package and manage your Larav
 
 * Edit / Modify the sample instructions and info on this page with your package infromation
 * Delete all the info between the `<-- delete -->` comment tags
-* Enjoy
+* Go to [Documentation](DOCS.md) for information on how to build your theme
+* Have fun...
 -------------------------------------------------
 
 <!-- delete -->
