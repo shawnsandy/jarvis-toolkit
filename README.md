@@ -1,13 +1,28 @@
+<!-- Delete --->
+
+# Jarvis Toolkit
+
+Jarvis Toolkit - a simple and smart way to create, package and manage your Laravel views (themes) built with PHPLEAGUE Skelton. Please visit [jarvistoolkit.com](https://jarvistoolkit.revealui.com) for more info.
+
+
+
+**Note:** To replace ```:author_name``` ```:author_username``` ```:author_website``` ```:author_email``` ```:vendor``` ```:package_name``` ```:package_description``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files. You can change them manually or run `$ php prefill.php` in the command line to make all replacements at once. Delete the file prefill.php as well.
+
+
+* Edit / Modify the sample instructions and info on this page with your package infromation
+* Delete all the info between the `<-- delete -->` comment tags
+* Enjoy
+-------------------------------------------------
+
+<!-- delete -->
+
 # :package_name
 
 __SAMPLE README__ One Paragraph of project description goes here
 
+* Don't forget to delete the `prefill.php` when you are complete
 
-
-        Please view [START.md](START HERE) for instructions on how to Use this toolkit build Laravel themes
-
-
-## Getting Started
+## Getting started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -37,6 +52,11 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
+
+## Change log
+
+Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
+
 ## Running the tests
 
 Explain how to run the automated tests for this system
@@ -61,6 +81,11 @@ Give an example
 
 Add additional notes about how to deploy this on a live system
 
+
+## Security
+
+If you discover any security related issues, please email :author_email instead of using the issue tracker.
+
 ## Built With
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
@@ -75,9 +100,11 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
-## Authors
+## Credits
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+- [:author_name][link-author]
+- [All Contributors][link-contributors]
+
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
