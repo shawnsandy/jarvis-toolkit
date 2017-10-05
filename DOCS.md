@@ -1,8 +1,10 @@
 # Jarvis Toolkit
 
-Now that you have gone through the [package setup](README.md) it's time to start building your Laravel theme (views). Jarvis provides you with a several tools to can make your jobs easier from start to finish.
+Introduction...
 
 ## Getting started
+
+Now that you have gone through the [package setup](README.md) it's time to start building your Laravel theme (views). Jarvis provides you with a several tools to can make your jobs easier from start to finish.
 
 Lets get Started
 
@@ -14,7 +16,6 @@ Please ensure that you have the following installed
 * PHP 7.0
 * Composer
 * Node / npm latest versions
-*
 
 ```
 Give examples
