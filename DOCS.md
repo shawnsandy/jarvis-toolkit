@@ -1,10 +1,10 @@
 # Jarvis Toolkit
 
-## Getting started
-
 Now that you have gone through the [package setup](README.md) it's time to start building your Laravel theme (views). Jarvis provides you with a several tools to can make your jobs easier from start to finish.
 
+## Getting started
 
+Lets get Started
 
 ### Prerequisites
 
