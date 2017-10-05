@@ -1,5 +1,5 @@
 <!-- delete --->
-# Jarvis Toolkit
+# Jarvis Toolkit (alpha)
 
 Jarvis Toolkit - a simple and smart way to create, package and manage your Laravel views (themes) built with PHPLEAGUE Skelton. Please visit [jarvistoolkit.com](https://jarvistoolkit.revealui.com) for more info.
 
