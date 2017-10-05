@@ -3,16 +3,17 @@
 
 Jarvis Toolkit - a simple and smart way to create, package and manage your Laravel views (themes) built with PHPLEAGUE Skelton. Please visit [jarvistoolkit.com](https://jarvistoolkit.revealui.com) for more info.
 
-### Prerequisites
+## Prerequisites
 
 Please ensure that you have the following installed
 
 * Laravel 5.4x of course
 * PHP 7.0
 * Composer
+* Working knowledge of terminal
 
 
-### Install
+## Install
 
 * __Clone the repo__ `
  git https://github.com/shawnsandy/jarvis-toolkit package-name`
@@ -20,7 +21,9 @@ Please ensure that you have the following installed
 
 * CD into the directory where you clone the package `cd package_name`
 
-* From you terminal run `php prefill.php` to interactively replace placeholder values
+* Delete the `.git` directory `trash .git` (safer) or `rm -f .git` (not so safe)
+
+* Run `php prefill.php` to interactively replace placeholder values
 
 **Note:** To replace ```:author_name``` ```:author_username``` ```:author_website``` ```:author_email``` ```:vendor``` ```:package_name``` ```:package_description``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files. You can change them manually or run `$ php prefill.php` in the command line to make all replacements at once. Delete the file prefill.php as well.
 
