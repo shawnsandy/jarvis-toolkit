@@ -38,8 +38,14 @@ $replacements = [
     ':vendor' => function () use (&$values) {
         return $values['package_vendor'];
     },
+    ':vendor_name' => function () use (&$values) {
+        return ucfirst($values['package_vendor']);
+    },
     ':package_name' => function () use (&$values) {
-        return $values['package_name'];
+        return ucfirst($values['package_name']);
+    },
+    ':package' => function () use (&$values) {
+        return ucfirst($values['package_name']);
     },
     ':package_description' => function () use (&$values) {
         return $values['package_description'];

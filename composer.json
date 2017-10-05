@@ -50,10 +50,10 @@
       "extra": {
           "laravel": {
               "providers": [
-                 //":namespace\\:providerServicesProvider"
+                 ":vendor_name\\:package_name\\:providerServicesProvider"
               ],
               "aliases": {
-                  //":provider": ":namespace\\:providerFacade"
+                  ":provider": ":namespace\\:package_name\\:providerFacade"
               }
           }
 
