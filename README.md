@@ -22,7 +22,7 @@ Please ensure that you have the following installed
 
 * From you terminal run `php prefill.php` to interactively replace placeholder values
 
-        **Note:** To replace ```:author_name``` ```:author_username``` ```:author_website``` ```:author_email``` ```:vendor``` ```:package_name``` ```:package_description``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files. You can change them manually or run `$ php prefill.php` in the command line to make all replacements at once. Delete the file prefill.php as well.
+**Note:** To replace ```:author_name``` ```:author_username``` ```:author_website``` ```:author_email``` ```:vendor``` ```:package_name``` ```:package_description``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files. You can change them manually or run `$ php prefill.php` in the command line to make all replacements at once. Delete the file prefill.php as well.
 
 
 * Edit / Modify the sample instructions and info on this page with your package infromation
