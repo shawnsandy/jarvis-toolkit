@@ -19,9 +19,26 @@ class TestCase extends Orchestra\Testbench\BrowserKit\TestCase
 	}
 
 
-	protected function getPackageProviders($app)
-	{
-		return [':namespace\:providerServicesProvider'];
-	}
+    /**
+     * Load package service provider
+     * @param  \Illuminate\Foundation\Application $app
+     * @return lasselehtinen\MyPackage\MyPackageServiceProvider
+     */
+    protected function getPackageProviders($app)
+    {
+        return [':namespace\:providerServicesProvider'];
+    }
+
+    /**
+     * Load package alias
+     * @param  \Illuminate\Foundation\Application $app
+     * @return array
+     */
+    protected function getPackageAliases($app)
+    {
+        return [
+            'Jarvis' => :providerFacade::class,
+        ];
+    }
 
 }
