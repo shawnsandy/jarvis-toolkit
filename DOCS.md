@@ -1,16 +1,20 @@
 # Jarvis Toolkit
 
-__SAMPLE README__ One Paragraph of project description goes here
-
-* Don't forget to delete the `prefill.php` when you are complete
-
 ## Getting started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Now that you have gone through the [package setup](README.md) it's time to start building your Laravel theme (views). Jarvis provides you with a several tools to can make your jobs easier from start to finish.
+
+
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Please ensure that you have the following installed
+
+* Laravel 5.5x of course
+* PHP 7.0
+* Composer
+* Node / npm latest versions
+*
 
 ```
 Give examples
