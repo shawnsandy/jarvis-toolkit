@@ -23,7 +23,7 @@ Please ensure that you have the following installed
 
 * Delete the `.git` directory `trash .git` (safer) or `rm -f .git` (not so safe)
 
-* Run `php prefill.php` to interactively replace placeholder values
+* Run `php prefill.php` to interactively replace placeholder values (:package_name, :vendor etc)
 
 **Note:** To replace ```:author_name``` ```:author_username``` ```:author_website``` ```:author_email``` ```:vendor``` ```:package_name``` ```:package_description``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files. You can change them manually or run `$ php prefill.php` in the command line to make all replacements at once. Delete the file prefill.php as well.
 
